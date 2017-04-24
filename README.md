@@ -1,2 +1,2 @@
 # GameJam2017
-School's GameJam entry, made with Onni Kytönummi
+School's GameJam entry, made in collaboration with Onni Kytönummi
